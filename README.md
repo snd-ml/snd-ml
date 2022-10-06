@@ -2,7 +2,7 @@
 [Master's Student @ NTHU Taiwan]
 - 👀 I’m interested in Machine Learning and AI
 - 🌱 I’m currently learning Computer Vision and Reinforcement Learning
-- 💞️ I’m looking to collaborate on AI for healthcare, image processing and speech signal processsing.
+- 💞️ I’m looking to collaborate on AI for computer vision, healthcare, image processing and speech signal processsing.
 - 📫 How to reach me - Email: surajdengale@gmail.com
 
 <!---
