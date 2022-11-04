@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Suraj Dengale
-[Master's Student @ NTHU Taiwan]
+[Master's Student @ Vision Science Lab, NTHU Taiwan]
 - 👀 I’m interested in Machine Learning and AI
 - 🌱 I’m currently working on Computer Vision
 - 💞️ I’m looking to collaborate on AI for computer vision, healthcare, image processing and speech signal processsing.
