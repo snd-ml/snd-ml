@@ -3,7 +3,7 @@
 - 👀 I’m interested in Machine Learning, Deep Learning and AI
 - 🌱 I’m currently learning Computer Vision and Reinforecment Learning.
 - 💞️ I’m looking to collaborate on AI for computer vision, healthcare, image processing and speech signal processsing.
-- 📫 How to reach me - Email: surajdengale@gmail.com
+- 📫 How to reach me - Email: surajdengale@gapp.nthu.edu.tw
 
 <!---
 snd-ml/snd-ml is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
